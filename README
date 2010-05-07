@@ -1,0 +1,1 @@
+This module will provide a basic catalog request form in Magento to allow customers to submit a catalog request.  The admin collects these and allows to be downloaded in a CSV file.
